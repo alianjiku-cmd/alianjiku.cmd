@@ -1,2 +1,18 @@
 # alianjiku.cmd
 Introduction to Web Development and Linux: An overview of web development, the Linux command line, and the basics of HTML and CSS.
+ Hi, I'm Alice
+
+## About Me
+- I'm currently learning computer programming
+- I'm interested in  "AI, web development, and data science
+- I'm looking to collaborate on "beginner-friendly open source projects".
+
+## Skills I'm Building
+- Git and GitHub
+- ""shell script", "Python", "HTML/CSS, "Machine Learning"", and so much more.
+## Current Projects
+- (https://github.com/alianjiku-cmd/alianjiku.cmd/edit/main/README.md) — Introduction to Github-and Git 
+
+## How to Reach Me
+- Email: alianjiku@gmail.com
+- LinkedIn:https://github.com/CardenDante/Introduction-To-Github-and-git
