@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
+    <title>alianjiku .cmd/alianjiku .cmd>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -26,26 +26,26 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm [Your Name]</h1>
+    <h1>Welcome! I'm Alice</h1>
 
-    <div class="section">
-        <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
+    <div class="data (attributes) and actions (methods)">
+        <h2>My name is Alice,I school at We can academy, Im taking programming course</h2>
+        <p>I'm a student currently learning .Web Development, Data Science & AI, Mobile Development, and Cybersecurity.
+           I'm interested in building digital tools, automate repetitive tasks, and solve complex problems.   .</p>
     </div>
 
-    <div class="section">
+    <div class="">Access Modifiers (Visibility Section, Attributes (Data Section Methods (Behavior Section etc).
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
+            <li>Adding files, creating repositories,making html files and links</li>
         </ul>
     </div>
 
-    <div class="section">
+    <div class="Begginer based projects">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
+            <li><a href="https://github.com/alianjiku-cmd/alianjiku.cmd/edit/main/index.html.">My GitHub Profile</a></li>
         </ul>
     </div>
 </body>
