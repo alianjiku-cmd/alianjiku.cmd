@@ -1,4 +1,43 @@
-##Exercise 1  <h2>My Learning Goals</h2>
-              <h3>This Semester</h3>
+## Exercise 1 ***Headings:* <h2>My Learning Goals</h2>
+           <h3>This Semester</h3>
+## Exercise 2**Text formatting**  <p>I am learning <strong>HTML</strong>, practicing <em>coding</em>, and using the <code>&lt;p&gt;</code> tag to create paragraphs.</p>
 
-## Exercise 2  <p>I am learning <strong>HTML</strong>, practicing <em>coding</em>, and using the <code>&lt;p&gt;</code> tag to create paragraphs.</p>
+### Exercise 3 **Links:** 
+<p>
+    <a href="https://github.com/yourusername" target="_blank">My GitHub Profile</a>
+</p>
+
+<p>
+    <a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a>
+</p>
+
+
+###**Exercise 4 Lists :**
+<!-- Unordered List -->
+<h3>Things I Want to Learn</h3>
+<ul>
+    <li>HTML and CSS</li>
+    <li>JavaScript</li>
+    <li>Git and GitHub</li>
+</ul>
+
+<!-- Ordered List -->
+<h3>Steps to Make a Git Commit</h3>
+<ol>
+    <li>Stage your changes using <code>git add .</code></li>
+    <li>Create a commit using <code>git commit -m "Your commit message"</code></li>
+    <li>Push the commit to GitHub using <code>git push</code></li>
+</ol>
+
+
+
+###**Exercise 5 Table:**
+
+                   |        Tool              |          Purpose                     |     Link      |
+                   |------------------------  |------------------------------- ---   | ------------- | 
+                   |    GitHub                |    Store and manage code projects    |    GitHub     |
+                   |    Visual Studio Code    |    Write and edit programming code   |    VS Code    |
+
+##** Exercise 6 Task list:**
+###** Exercise 7 Code block:** 
+###** Exercise 8 Blockquote: **
