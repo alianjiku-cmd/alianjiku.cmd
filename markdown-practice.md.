@@ -4,7 +4,7 @@
 
 ### Exercise 3 **Links:** 
 <p>
-    <a href="https://github.com/yourusername" target="_blank">My GitHub Profile</a>
+    <a href="https://github.com/alianjiku cmd/alianjiku cmd" target="_blank">My GitHub Profile</a>
 </p>
 
 <p>
@@ -40,7 +40,9 @@
 
 
 
-##** Exercise 6 Task list:**-
+###** Exercise 6 Task list:**-
+
+
 
                       *- [  Githud & Git links  ] Completed task*
                       * - [  Repositories       ] Completed task*
@@ -49,4 +51,13 @@
 
 
 ###** Exercise 7 Code block:** 
+   
+name = "Alice"
+
+print("Hello, " + name + "!")
+print("Welcome to programming.")
+
+
 ###** Exercise 8 Blockquote: **
+~~"Success comes from consistent effort. Keep learning, keep practicing, and don't give up when things get difficult."~~
+
