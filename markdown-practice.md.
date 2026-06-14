@@ -3,13 +3,10 @@
 ## Exercise 2**Text formatting**  <p>I am learning <strong>HTML</strong>, practicing <em>coding</em>, and using the <code>&lt;p&gt;</code> tag to create paragraphs.</p>
 
 ### Exercise 3 **Links:** 
-<p>
-    <a href="https://github.com/alianjiku cmd/alianjiku cmd" target="_blank">My GitHub Profile</a>
-</p>
 
-<p>
-    <a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a>
-</p>
+-https://github.com/alianjiku cmd/alianjiku cmd
+-https://developer.mozilla.org
+
 
 
 ###**Exercise 4 Lists :**
